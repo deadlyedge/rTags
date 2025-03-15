@@ -1,5 +1,5 @@
 from fastapi import Depends, FastAPI
-from routers import rtags
+from routers import rtags, translate_subtitle
 from fastapi.middleware.cors import CORSMiddleware
 from utils.auth_utils import verify_token
 
@@ -8,6 +8,7 @@ app = FastAPI(title="API with Modular Routers", dependencies=[Depends(verify_tok
 
 # Routers
 app.include_router(rtags.router, prefix="/rtags", tags=["rtags"])
+app.include_router(translate_subtitle.router, prefix="/translate", tags=["translate"])
 
 # CORS middleware
 origins = ["*"]

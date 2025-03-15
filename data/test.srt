@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:02,000
+Good morning, everyone!
+
+2
+00:00:02,000 --> 00:00:04,000
+I woke up early today.
+
+3
+00:00:04,000 --> 00:00:06,000
+The sun was just rising.
+
+4
+00:00:06,000 --> 00:00:08,000
+I stretched a little.
+
+5
+00:00:08,000 --> 00:00:10,000
+Then I brushed my teeth.
+
+6
+00:00:10,000 --> 00:00:12,000
+I looked in the mirror.
+
+7
+00:00:12,000 --> 00:00:14,000
+Time to get dressed!
+
+8
+00:00:14,000 --> 00:00:16,000
+I picked a blue shirt.
+
+9
+00:00:16,000 --> 00:00:18,000
+Downstairs, I made coffee.
+
+10
+00:00:18,000 --> 00:00:20,000
+The smell was amazing.
+
+11
+00:00:20,000 --> 00:00:22,000
+I toasted some bread.
+
+12
+00:00:22,000 --> 00:00:24,000
+Added butter and jam.
+
+13
+00:00:24,000 --> 00:00:26,000
+Breakfast was ready!
+
+14
+00:00:26,000 --> 00:00:28,000
+I ate while reading.
+
+15
+00:00:28,000 --> 00:00:30,000
+The news was interesting.
+
+16
+00:00:30,000 --> 00:00:32,000
+Then I washed the dishes.
+
+17
+00:00:32,000 --> 00:00:34,000
+I grabbed my bag.
+
+18
+00:00:34,000 --> 00:00:36,000
+Ready for the day!
+
+19
+00:00:36,000 --> 00:00:38,000
+I stepped outside.
+
+20
+00:00:38,000 --> 00:00:40,000
+What a great morning!

@@ -1,0 +1,32 @@
+[Script Info]
+Title: 示例 ASS 字幕
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,宋体,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.00,Default,,0,0,0,,大家好！
+Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,这是一个示例字幕。
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,它展示基本的ASS格式。
+Dialogue: 0,0:00:10.00,0:00:12.00,Default,,0,0,0,,每行都有开始和结束时间。
+Dialogue: 0,0:00:13.00,0:00:15.00,Default,,0,0,0,,样式可以自定义。
+Dialogue: 0,0:00:16.00,0:00:18.00,Default,,0,0,0,,这是第六行。
+Dialogue: 0,0:00:19.00,0:00:21.00,Default,,0,0,0,,接下来是第七行。
+Dialogue: 0,0:00:22.00,0:00:24.00,Default,,0,0,0,,第八行继续。
+Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,快到一半了。
+Dialogue: 0,0:00:28.00,0:00:30.00,Default,,0,0,0,,这是第十行。
+Dialogue: 0,0:00:31.00,0:00:33.00,Default,,0,0,0,,第十一行紧随其后。
+Dialogue: 0,0:00:34.00,0:00:36.00,Default,,0,0,0,,现在是第十二行。
+Dialogue: 0,0:00:37.00,0:00:39.00,Default,,0,0,0,,十三被认为不吉利。
+Dialogue: 0,0:00:40.00,0:00:42.00,Default,,0,0,0,,但在这字幕里没事。
+Dialogue: 0,0:00:43.00,0:00:45.00,Default,,0,0,0,,第十五行到了。
+Dialogue: 0,0:00:46.00,0:00:48.00,Default,,0,0,0,,还剩几行。
+Dialogue: 0,0:00:49.00,0:00:51.00,Default,,0,0,0,,这是第十七行。
+Dialogue: 0,0:00:52.00,0:00:54.00,Default,,0,0,0,,接着是第十八行。
+Dialogue: 0,0:00:55.00,0:00:57.00,Default,,0,0,0,,第十九行来了。
+Dialogue: 0,0:00:58.00,0:01:00.00,Default,,0,0,0,,最后是第二十行。：）
